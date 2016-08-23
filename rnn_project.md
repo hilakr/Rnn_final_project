@@ -463,5 +463,4 @@ plt.show()
 1. Relative to the resources and time we had, we think we got fairly good results.
 2. The model generated only 25 sentences, which are not 100% simialr to the original php code, but we can see there are few sentences that are more simialr from the others for example: "include j++ b'public New function" .
 3. The data we have chosen was very challanged because it has a lot of punctuation that are part of the language, and even though it's kind of text it isn't, the vocabulary of the language is limited not like a regular test and it affected on the model's results.
-4. it took us a lot of hours to run the model on the data and to make analysis.
 4. Rnn is very fascinating subject. we believe that if we had more resources we can imporve the results. 
